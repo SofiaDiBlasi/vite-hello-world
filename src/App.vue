@@ -1,6 +1,7 @@
 <script setup>
   import Titolo from './components/Titolo.vue'
-  import Presentazione from './components/Presentazione.vue';
+  import Presentazione from './components/Presentazione.vue'
+  import Foto from './components/Foto.vue'
 </script>
 
 <template>
@@ -10,6 +11,8 @@
 
   <main>
     <Presentazione />
+
+    <Foto />
   </main>
  
 </template>

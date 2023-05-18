@@ -25,6 +25,12 @@
 <style>
     .container{
         display: flex;
+        height: 7 00px;
+        border-radius: 50px 40px;
+        border: 5px solid pink;
+        padding: 15px;
+        margin-bottom: 20px;
+        padding-left: 150px;
     }
 
     span{
@@ -39,5 +45,7 @@
     img{
         widows: 200px;
         height: 500px;
+        border: 5px solid pink;
+        border-radius: 50px 40px;
     }
 </style>
